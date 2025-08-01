@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin: 30px;
+    width: 50%;
+    height: auto
+}
+.article{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 500px;
+    height: auto
+}
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.position{
+    position: relative;
+   top: 80px;
+    z-index: -1;
+}
+
+.phone{
+    color: white;
+    margin: 20px;
+}
+
