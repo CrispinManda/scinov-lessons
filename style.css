@@ -21,3 +21,32 @@ a{
    
     
 }
+
+/* form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+
+ form > div  {
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.form-container{
+    margin: 0px 100px 0px 500px;
+}
